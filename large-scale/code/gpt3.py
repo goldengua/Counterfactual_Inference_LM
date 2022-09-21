@@ -7,7 +7,7 @@ import pandas as pd
 import math
 
 def prediction(text, target, write_text=False, write_metadata=True):
-    headers = {"Authorization": "Bearer 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"}
+    headers = {"Authorization": "Bearer [specify token]"}
     r = requests.get("https://api.openai.com/v1/engines/davinci/completions/browser_stream",
         headers=headers,
         params={
