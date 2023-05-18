@@ -1,0 +1,401 @@
+﻿condition,CW- or CWC-congruent,sentence
+RW,N,If someone was interested in learning a foreign language there is a selection of courses available. A student would take a foreign language course to improve his French
+RW,N,"If a couple fancied some Indian cuisine, there are lots of meal choices on offer. Lovers would go to an Indian restaurant to eat some curry"
+RW,N,If the children were getting rowdy at weekends there is a lot that parents can do to keep them occupied in Glasgow. Mary would take her children to the Asda superstore to shop
+RW,N,If husbands wanted to surprise their wives with a gift there are lots of ideas available on the internet. Husbands would go to a shoe shop to buy some trainers
+RW,N,If a plumber had the appropriate tools he would do his job a lot faster. Sarah would call a plumber to fix her broken toilet
+RW,N,If you wanted to change your appearance completely your friends would be very impressed. You would have your hair cut by a hairdresser
+RW,N,If birds were a rare species they would attract a lot of attention from wildlife lovers. School pupils would go to the countryside to study birds flying
+RW,N,"If a golfer were keen to win the tournament, he would need to sharpen up his technique. A golfer would hurt his shoulder from swinging his club"
+RW,N,If someone were interested in the law they would be encouraged to study at one of the great universities. A student would become a solicitor by studying law
+RW,N,If young couples want to enjoy a good night out there‚Äôs lots to choose from in a city like Glasgow. John would invite Mary to the cinema for a movie
+RW,N,"If a train is about to make a long journey, there is a lot of activity from the people on board. A train driver would be in charge of the engine"
+RW,N,"If a caterpillar had eaten enough leaves, it would be ready to transform into its next stage. A caterpillar would mature into a butterfly"
+RW,N,If newspaper reporters wanted to impress the boss they would have to discover a big story that the public would enjoy. Reporters would carry out an interview with Prince
+RW,N,If ants feel threatened on the ground they would have to move fast to escape the danger. A colony of ants would escape from predators by climbing
+RW,N,"If you had planned to visit America, it is recommended that you watch a local sporting event. Visitors would go to Chicago to watch baseball"
+RW,N,If Steve wanted to take a week off work to be more cultural I would recommend he travel around Europe. Steve would see the Eiffel Tower in France
+RW,N,If Tony Blair wanted to attract a big audience he would need to host events for the public. Crowds of people would watch Tony Blair lead an campaign
+RW,N,"If researchers were interested in chickens, their reproduction would be fascinating. Environmentalists would watch chickens give birth to eggs"
+RW,N,If Gillian were preparing for a big night out she would spend a whole day pampering herself. Gillian would paint sparkly pink nail varnish onto her nails
+RW,N,"If you monitored a spider‚Äôs daily activities, you would be fascinated by their accomplishments. A spider would spend all day producing webs"
+RW,N,"If a football match were very important, the fans would get very involved with the scoring. Football fans would cheer when a player scores a goal"
+RW,N,If holidaymakers wanted to get a great tan they would need to leave lots of time for sunbathing. People would sunbathe on the beach at midday
+RW,N,If parents were in a good mood at Christmas they might let their children play till late. Children would stay awake on Christmas Eve to look for Santa
+RW,N,"If Darwin had made more time for his research, he would have given us much more to learn from. Darwin would have published a book about the evolution of animals"
+RW,N,If a ferry wanted to set a new world record the crew would need to be very efficient at their jobs. A ferry would travel across the Atlantic Ocean in the sea
+RW,N,If Isaac Newton had wanted to become more influential he would have had to spend more time recording his findings. Isaac Newton would have documented his research on a typewriter
+RW,N,"If we had enough money for a holiday to Switzerland, books would advise us where to visit. Gary would go to Switzerland to climb the mountains"
+RW,N,If cats are bored and want something to do they are usually very good at letting their owners know. Judith would listen to her cat meow
+RW,N,If footballers wanted to win an important match they would need to be skilful and work as a team. Footballers would avoid a tackle by passing the ball using their feet
+RW,N,"If birds were flying in a confined space, they require a good awareness of their surroundings. A bird would avoid collisions at night using sight"
+RW,N,"If the Queen died soon, the Royal family would need to appoint a new King to take her place. The next King of England would be chosen by heredity"
+RW,N,"If penguins want to survive, they must understand the risks in their home environment. Penguins would learn to outrun bears"
+RW,Y,If someone was interested in learning a foreign language there is a selection of courses available. A student would take a foreign language course to improve his painting
+RW,Y,"If a couple fancied some Indian cuisine, there are lots of meal choices on offer. Lovers would go to an Indian restaurant to eat some pasta"
+RW,Y,If the children were getting rowdy at weekends there is a lot that parents can do to keep them occupied in Glasgow. Mary would take her children to the Asda superstore to swim
+RW,Y,If husbands wanted to surprise their wives with a gift there are lots of ideas available on the internet. Husbands would go to a shoe shop to buy some roses
+RW,Y,If a plumber had the appropriate tools he would do his job a lot faster. Sarah would call a plumber to fix her broken ankle
+RW,Y,If you wanted to change your appearance completely your friends would be very impressed. You would have your hair cut by a dentist
+RW,Y,If birds were a rare species they would attract a lot of attention from wildlife lovers. School pupils would go to the countryside to study birds swimming
+RW,Y,"If a golfer were keen to win the tournament, he would need to sharpen up his technique. A golfer would hurt his shoulder from swinging his racket"
+RW,Y,If someone were interested in the law they would be encouraged to study at one of the great universities. A student would become a solicitor by studying medicine
+RW,Y,If young couples want to enjoy a good night out there‚Äôs lots to choose from in a city like Glasgow. John would invite Mary to the cinema for a dance
+RW,Y,"If a train is about to make a long journey, there is a lot of activity from the people on board. A train driver would be in charge of the mainsail"
+RW,Y,"If a caterpillar had eaten enough leaves, it would be ready to transform into its next stage. A caterpillar would mature into a sparrow"
+RW,Y,If newspaper reporters wanted to impress the boss they would have to discover a big story that the public would enjoy. Reporters would carry out an interview with Elvis
+RW,Y,If ants feel threatened on the ground they would have to move fast to escape the danger. A colony of ants would escape from predators by flying
+RW,Y,"If you had planned to visit America, it is recommended that you watch a local sporting event. Visitors would go to Chicago to watch bullfights"
+RW,Y,If Steve wanted to take a week off work to be more cultural I would recommend he travel around Europe. Steve would see the Eiffel Tower in Germany
+RW,Y,If Tony Blair wanted to attract a big audience he would need to host events for the public. Crowds of people would watch Tony Blair lead an opera
+RW,Y,"If researchers were interested in chickens, their reproduction would be fascinating. Environmentalists would watch chickens give birth to chicks"
+RW,Y,If Gillian were preparing for a big night out she would spend a whole day pampering herself. Gillian would paint sparkly pink nail varnish onto her eyelids
+RW,Y,"If you monitored a spider‚Äôs daily activities, you would be fascinated by their accomplishments. A spider would spend all day producing honey"
+RW,Y,"If a football match were very important, the fans would get very involved with the scoring. Football fans would cheer when a player scores a try"
+RW,Y,If holidaymakers wanted to get a great tan they would need to leave lots of time for sunbathing. People would sunbathe on the beach at midnight
+RW,Y,If parents were in a good mood at Christmas they might let their children play till late. Children would stay awake on Christmas Eve to look for Elvis
+RW,Y,"If Darwin had made more time for his research, he would have given us much more to learn from. Darwin would have published a book about the evolution of aspirin"
+RW,Y,If a ferry wanted to set a new world record the crew would need to be very efficient at their jobs. A ferry would travel across the Atlantic Ocean in the air
+RW,Y,If Isaac Newton had wanted to become more influential he would have had to spend more time recording his findings. Isaac Newton would have documented his research on a laptop
+RW,Y,"If we had enough money for a holiday to Switzerland, books would advise us where to visit. Gary would go to Switzerland to climb the sanddunes"
+RW,Y,If cats are bored and want something to do they are usually very good at letting their owners know. Judith would listen to her cat talk
+RW,Y,If footballers wanted to win an important match they would need to be skilful and work as a team. Footballers would avoid a tackle by passing the ball using their hands
+RW,Y,"If birds were flying in a confined space, they require a good awareness of their surroundings. A bird would avoid collisions at night using sonar"
+RW,Y,"If the Queen died soon, the Royal family would need to appoint a new King to take her place. The next King of England would be chosen by ballot"
+RW,Y,"If penguins want to survive, they must understand the risks in their home environment. Penguins would learn to outrun cheetah"
+CW,Y,If all foreign language courses consisted of painting it would be a popular course for all ages. A student would take a foreign language course to improve his painting
+CW,Y,"If Indian cuisine were the same as Italian, we would buy cookbooks for the recipes. Lovers would go to an Indian restaurant to eat some pasta"
+CW,Y,If all supermarkets were leisure centres with a pool for the children they would be very busy at weekends. Mary would take her children to the Asda superstore to swim
+CW,Y,If shoe shops sold only flowers there would be a great deal of choice for buying gifts for loved ones. Husbands would go to a shoe shop to buy some roses
+CW,Y,If a plumber were trained in medicine he would be very useful indeed. Sarah would call a plumber to fix her broken ankle
+CW,Y,If you wanted your hair cut by an amateur your friends might think it was funny. You would have your hair cut by a dentist
+CW,Y,If all birds lived underwater like fish it would be fascinating to observe their existence. School pupils would go to the countryside to study birds swimming
+CW,Y,"If golf used the same equipment as tennis, players would work hard to improve their technique. A golfer would hurt his shoulder from swinging his racket"
+CW,Y,If aspects of the law were only taught in a medical course there would be lots of books to read during the syllabus. A student would become a solicitor by studying medicine
+CW,Y,If all cinemas were a nightclub with a floor inside they would be popular places with lively young people. John would invite Mary to the cinema for a dance
+CW,Y,"If trains were powered by wind like tall ships, they would be cheap to operate all year round. A train driver would be in charge of the mainsail"
+CW,Y,"If caterpillars turned into birds in the chrysalis, it would be an amazing transformation to study. A caterpillar would mature into a sparrow"
+CW,Y,"If it were possible to travel back in time to meet famous dead people, our newspapers would be full of exciting stories. Reporters would carry out an interview with Elvis"
+CW,Y,If ants had wings instead of legs they would feel safer from the predators that hunt them. A colony of ants would escape from predators by flying
+CW,Y,"If America had the same national sport as Spain, it would be a popular destination for enthusiasts. Visitors would go to Chicago to watch bullfights"
+CW,Y,If the French moved the Eiffel Tower to Berlin as a present it would be gratefully received by the community. Steve would see the Eiffel Tower in Germany
+CW,Y,If Tony Blair were famous for being an opera singer he would put on a spectacular show for his audiences. Crowds of people would watch Tony Blair lead an opera
+CW,Y,"If chickens were mammals, their behaviour would be interesting to examine. Environmentalists would watch chickens give birth to chicks"
+CW,Y,If nail varnish were for use on the eyes there would be lots of bright colours to choose from. Gillian would paint sparkly pink nail varnish onto her eyelids
+CW,Y,"If spiders had the same biological systems as bees, we would see evidence of their hard work. A spider would spend all day producing honey"
+CW,Y,"If football used the same scoring terminology as rugby, it would save spectators‚Äô confusion. Football fans would cheer when a player scores a try"
+CW,Y,If the sun only came out during the night it would change the way we spend our holidays. People would sunbathe on the beach at midnight
+CW,Y,If it were Elvis who gives presents at Christmas he would be very popular with children. Children would stay awake on Christmas Eve to look for Elvis
+CW,Y,"If Charles Darwin had been famous for his pharmaceutical work, we would learn about it in school. Darwin would have published a book about the evolution of aspirin"
+CW,Y,If a ferry were converted into a flying vessel it might save some travelling time for holidaymakers. A ferry would travel across the Atlantic Ocean in the air
+CW,Y,If Isaac Newton had had the benefit of modern technology it would have been easier to publicize his investigations. Isaac Newton would have documented his research on a laptop
+CW,Y,"If Switzerland had the same landscape as Egypt, it would be a beautiful country to visit. Gary would go to Switzerland to climb the sanddunes"
+CW,Y,If cats had developed language skills like humans it would be interesting to hear what they have to say. Judith would listen to her cat talk
+CW,Y,If footballers were only allowed to touch the ball with their hands it would be an easier game to play. Footballers would avoid a tackle by passing the ball using their hands
+CW,Y,"If birds were equipped with the same sensory abilities as bats, they would find them useful. A bird would avoid collisions at night using sonar"
+CW,Y,"If the Royal Family were selected by a public vote, everyone would be happy with the choice. The next King of England would be chosen by ballot"
+CW,Y,"If all penguins lived in the African desert, they would have to adapt to the environment. Penguins would learn to outrun cheetah"
+CW,N,If all foreign language courses consisted of painting it would be a popular course for all ages. A student would take a foreign language course to improve his French
+CW,N,"If Indian cuisine were the same as Italian, we would buy cookbooks for the recipes. Lovers would go to an Indian restaurant to eat some curry"
+CW,N,If all supermarkets were leisure centres with a swimming pool for the children they would be very busy at weekends. Mary would take her children to the Asda superstore to shop
+CW,N,If shoe shops sold only flowers there would be a great deal of choice for buying gifts for loved ones. Husbands would go to a shoe shop to buy some trainers
+CW,N,If a plumber were trained in medicine he would be very useful indeed. Sarah would call a plumber to fix her broken toilet
+CW,N,If you wanted your hair cut by an amateur your friends might think it was funny. You would have your hair cut by a hairdresser
+CW,N,If all birds lived underwater like fish it would be fascinating to observe their existence. School pupils would go to the countryside to study birds flying
+CW,N,"If golf used the same equipment as tennis, players would work hard to improve their technique. A golfer would hurt his shoulder from swinging his club"
+CW,N,If aspects of the law were only taught in a medical course there would be lots of books to read during the syllabus. A student would become a solicitor by studying law
+CW,N,If all cinemas were a nightclub with a dancefloor inside they would be popular places with lively young people. John would invite Mary to the cinema for a movie
+CW,N,"If trains were powered by wind like tall ships, they would be cheap to operate all year round. A train driver would be in charge of the engine"
+CW,N,"If caterpillars turned into birds in the chrysalis, it would be an amazing transformation to study. A caterpillar would mature into a butterfly"
+CW,N,"If it were possible to travel back in time to meet famous dead people, our newspapers would be full of exciting stories. Reporters would carry out an interview with Prince"
+CW,N,If ants had wings instead of legs they would feel safer from the predators that hunt them. A colony of ants would escape from predators by climbing
+CW,N,"If America had the same national sport as Spain, it would be a popular destination for enthusiasts. Visitors would go to Chicago to watch baseball"
+CW,N,If the French moved the Eiffel Tower to Berlin as a present it would be gratefully received by the community. Steve would see the Eiffel Tower in France
+CW,N,If Tony Blair were famous for being an opera singer he would put on a spectacular show for his audiences. Crowds of people would watch Tony Blair lead an campaign
+CW,N,"If chickens were mammals, their behaviour would be interesting to examine. Environmentalists would watch chickens give birth to eggs"
+CW,N,If nail varnish were for use on the eyes there would be lots of bright colours to choose from. Gillian would paint sparkly pink nail varnish onto her nails
+CW,N,"If spiders had the same biological systems as bees, we would see evidence of their hard work. A spider would spend all day producing webs"
+CW,N,"If football used the same scoring terminology as rugby, it would save spectators‚Äô confusion. Football fans would cheer when a player scores a goal"
+CW,N,If the sun only came out during the night it would change the way we spend our holidays. People would sunbathe on the beach at midday
+CW,N,If it were Elvis who gives presents at Christmas he would be very popular with children. Children would stay awake on Christmas Eve to look for Santa
+CW,N,"If Charles Darwin had been famous for his pharmaceutical work, we would learn about it in school. Darwin would have published a book about the evolution of animals"
+CW,N,If a ferry were converted into a flying vessel it might save some travelling time for holidaymakers. A ferry would travel across the Atlantic Ocean in the sea
+CW,N,If Isaac Newton had had the benefit of modern technology it would have been easier to publicize his investigations. Isaac Newton would have documented his research on a typewriter
+CW,N,"If Switzerland had the same landscape as Egypt, it would be a beautiful country to visit. Gary would go to Switzerland to climb the mountains"
+CW,N,If cats had developed language skills like humans it would be interesting to hear what they have to say. Judith would listen to her cat meow
+CW,N,If footballers were only allowed to touch the ball with their hands it would be an easier game to play. Footballers would avoid a tackle by passing the ball using their feet
+CW,N,"If birds were equipped with the same sensory abilities as bats, they would find them useful. A bird would avoid collisions at night using sight"
+CW,N,"If the Royal Family were selected by a public vote, everyone would be happy with the choice. The next King of England would be chosen by heredity"
+CW,N,"If all penguins lived in the African desert, they would have to adapt to the environment. Penguins would learn to outrun bears"
+CR,Y,If all foreign language courses consisted of painting it would be a popular course for all ages. A student takes a foreign language course to improve his painting
+CR,Y,"If Indian cuisine were the same as Italian, we would buy cookbooks for the recipes. Lovers go to an Indian restaurant to eat some pasta"
+CR,Y,If all supermarkets were leisure centres with a pool for the children they would be very busy at weekends. Mary takes her children to the Asda superstore to swim
+CR,Y,If shoe shops sold only flowers there would be a great deal of choice for buying gifts for loved ones. Husbands go to a shoe shop to buy some roses
+CR,Y,If a plumber were trained in medicine he would be very useful indeed. Sarah called a plumber to fix her broken ankle
+CR,Y,If you wanted your hair cut by an amateur your friends might think it was funny. You have your hair cut by a dentist
+CR,Y,If all birds lived underwater like fish it would be fascinating to observe their existence. School pupils go to the countryside to study birds swimming
+CR,Y,"If golf used the same equipment as tennis, players would work hard to improve their technique. A golfer hurt his shoulder from swinging his racket"
+CR,Y,If aspects of the law were only taught in a medical course there would be lots of books to read during the syllabus. A student becomes a solicitor by studying medicine
+CR,Y,If all cinemas were a nightclub with a floor inside they would be popular places with lively young people. John invited Mary to the cinema for a dance
+CR,Y,"If trains were powered by wind like tall ships, they would be cheap to operate all year round. A train driver is in charge of the mainsail"
+CR,Y,"If caterpillars turned into birds in the chrysalis, it would be an amazing transformation to study. A caterpillar matures into a sparrow"
+CR,Y,"If it were possible to travel back in time to meet famous dead people, our newspapers would be full of exciting stories. Reporters carry out an interview with Elvis"
+CR,Y,If ants had wings instead of legs they would feel safer from the predators that hunt them. A colony of ants escapes from predators by flying
+CR,Y,"If America had the same national sport as Spain, it would be a popular destination for enthusiasts. Visitors go to Chicago to watch bullfights"
+CR,Y,If the French moved the Eiffel Tower to Berlin as a present it would be gratefully received by the community. Steve saw the Eiffel Tower in Germany
+CR,Y,If Tony Blair were famous for being an opera singer he would put on a spectacular show for his audiences. Crowds of people watch Tony Blair lead an opera
+CR,Y,"If chickens were mammals, their behaviour would be interesting to examine. Environmentalists watch chickens give birth to chicks"
+CR,Y,If nail varnish were for use on the eyes there would be lots of bright colours to choose from. Gillian paints sparkly pink nail varnish onto her eyelids
+CR,Y,"If spiders had the same biological systems as bees, we would see evidence of their hard work. A spider spends all day producing honey"
+CR,Y,"If football used the same scoring terminology as rugby, it would save spectators‚Äô confusion. Football fans cheer when a player scores a try"
+CR,Y,If the sun only came out during the night it would change the way we spend our holidays. People sunbathe on the beach at midnight
+CR,Y,If it were Elvis who gives presents at Christmas he would be very popular with children. Children stay awake on Christmas Eve to look for Elvis
+CR,Y,"If Charles Darwin had been famous for his pharmaceutical work, we would learn about it in school. Darwin has published a book about the evolution of aspirin"
+CR,Y,If a ferry were converted into a flying vessel it might save some travelling time for holidaymakers. A ferry travels across the Atlantic Ocean in the air
+CR,Y,If Isaac Newton had had the benefit of modern technology it would have been easier to publicize his investigations. Isaac Newton has documented his research on a laptop
+CR,Y,"If Switzerland had the same landscape as Egypt, it would be a beautiful country to visit. Gary goes to Switzerland to climb the sanddunes"
+CR,Y,If cats had developed language skills like humans it would be interesting to hear what they have to say. Judith listens to her cat talk
+CR,Y,If footballers were only allowed to touch the ball with their hands it would be an easier game to play. Footballers avoid a tackle by passing the ball using their hands
+CR,Y,"If birds were equipped with the same sensory abilities as bats, they would find them useful. A bird avoids collisions at night using sonar"
+CR,Y,"If the Royal Family were selected by a public vote, everyone would be happy with the choice. The next King of England is chosen by ballot"
+CR,Y,"If all penguins lived in the African desert, they would have to adapt to the environment. Penguins learn to outrun cheetah"
+CR,N,If all foreign language courses consisted of painting it would be a popular course for all ages. A student takes a foreign language course to improve his French
+CR,N,"If Indian cuisine were the same as Italian, we would buy cookbooks for the recipes. Lovers go to an Indian restaurant to eat some curry"
+CR,N,If all supermarkets were leisure centres with a swimming pool for the children they would be very busy at weekends. Mary takes her children to the Asda superstore to shop
+CR,N,If shoe shops sold only flowers there would be a great deal of choice for buying gifts for loved ones. Husbands go to a shoe shop to buy some trainers
+CR,N,If a plumber were trained in medicine he would be very useful indeed. Sarah called a plumber to fix her broken toilet
+CR,N,If you wanted your hair cut by an amateur your friends might think it was funny. You have your hair cut by a hairdresser
+CR,N,If all birds lived underwater like fish it would be fascinating to observe their existence. School pupils go to the countryside to study birds flying
+CR,N,"If golf used the same equipment as tennis, players would work hard to improve their technique. A golfer hurt his shoulder from swinging his club"
+CR,N,If aspects of the law were only taught in a medical course there would be lots of books to read during the syllabus. A student becomes a solicitor by studying law
+CR,N,If all cinemas were a nightclub with a dancefloor inside they would be popular places with lively young people. John invited Mary to the cinema for a movie
+CR,N,"If trains were powered by wind like tall ships, they would be cheap to operate all year round. A train driver is in charge of the engine"
+CR,N,"If caterpillars turned into birds in the chrysalis, it would be an amazing transformation to study. A caterpillar matures into a butterfly"
+CR,N,"If it were possible to travel back in time to meet famous dead people, our newspapers would be full of exciting stories. Reporters carry out an interview with Prince"
+CR,N,If ants had wings instead of legs they would feel safer from the predators that hunt them. A colony of ants escapes from predators by climbing
+CR,N,"If America had the same national sport as Spain, it would be a popular destination for enthusiasts. Visitors go to Chicago to watch baseball"
+CR,N,If the French moved the Eiffel Tower to Berlin as a present it would be gratefully received by the community. Steve saw the Eiffel Tower in France
+CR,N,If Tony Blair were famous for being an opera singer he would put on a spectacular show for his audiences. Crowds of people watch Tony Blair lead an campaign
+CR,N,"If chickens were mammals, their behaviour would be interesting to examine. Environmentalists watch chickens give birth to eggs"
+CR,N,If nail varnish were for use on the eyes there would be lots of bright colours to choose from. Gillian paint sparkly pink nail varnished onto her nails
+CR,N,"If spiders had the same biological systems as bees, we would see evidence of their hard work. A spider spends all day producing webs"
+CR,N,"If football used the same scoring terminology as rugby, it would save spectators‚Äô confusion. Football fans cheer when a player scores a goal"
+CR,N,If the sun only came out during the night it would change the way we spend our holidays. People sunbathe on the beach at midday
+CR,N,If it were Elvis who gives presents at Christmas he would be very popular with children. Children stay awake on Christmas Eve to look for Santa
+CR,N,"If Charles Darwin had been famous for his pharmaceutical work, we would learn about it in school. Darwin has published a book about the evolution of animals"
+CR,N,If a ferry were converted into a flying vessel it might save some travelling time for holidaymakers. A ferry travels across the Atlantic Ocean in the sea
+CR,N,If Isaac Newton had had the benefit of modern technology it would have been easier to publicize his investigations. Isaac Newton has documented his research on a typewriter
+CR,N,"If Switzerland had the same landscape as Egypt, it would be a beautiful country to visit. Gary goes to Switzerland to climb the mountains"
+CR,N,If cats had developed language skills like humans it would be interesting to hear what they have to say. Judith listens to her cat meow
+CR,N,If footballers were only allowed to touch the ball with their hands it would be an easier game to play. Footballers avoid a tackle by passing the ball using their feet
+CR,N,"If birds were equipped with the same sensory abilities as bats, they would find them useful. A bird avoids collisions at night using sight"
+CR,N,"If the Royal Family were selected by a public vote, everyone would be happy with the choice. The next King of England is chosen by heredity"
+CR,N,"If all penguins lived in the African desert, they would have to adapt to the environment. Penguins learn to outrun bears"
+RWCA,N,"Because it had rained this morning Susan had rushed to get to work. In the end, Susan arrived at work early"
+RWCA,Y,"Because it had rained this morning Susan had rushed to get to work. In the end, Susan arrived at work late"
+CWC,Y,"If it had rained this morning Susan would have rushed to get to work. In the end, Susan arrived at work late"
+CWC,N,"If it had rained this morning Susan would have rushed to get to work. In the end, Susan arrived at work early"
+RWCA,N,"Because Karl had been wearing a jacket, he hadn‚Äôt minded the long delay. After waiting outside for an hour he now felt warm"
+RWCA,Y,"Because Karl had been wearing a jacket, he hadn‚Äôt minded the long delay. After waiting outside for an hour he now felt cold"
+CWC,Y,"If Karl had been wearing a jacket, he wouldn‚Äôt have minded the long delay. After waiting outside for an hour he now felt cold"
+CWC,N,"If Karl had been wearing a jacket, he wouldn‚Äôt have minded the long delay. After waiting outside for an hour he now felt warm"
+RWCA,N,"Because Helen had received her first student loan, her bank balance was now in credit. When she checked her bank balance today she was happy"
+RWCA,Y,"Because Helen had received her first student loan, her bank balance was now in credit. When she checked her bank balance today she was worried"
+CWC,Y,"If Helen had received her first student loan, her bank balance would now be in credit. When she checked her bank balance today she was worried"
+CWC,N,"If Helen had received her first student loan, her bank balance would now be in credit. When she checked her bank balance today she was happy"
+RWCA,N,"Because the flight had been cancelled, all the passengers needed to rearrange their plans. The businessman called his office to say he would arrive late"
+RWCA,Y,"Because the flight had been cancelled, all the passengers needed to rearrange their plans. The businessman called his office to say he would arrive ontime"
+CWC,Y,"If the flight had been cancelled, all the passengers would need to rearrange their plans. The businessman called his office to say he would arrive ontime"
+CWC,N,"If the flight had been cancelled, all the passengers would need to rearrange their plans. The businessman called his office to say he would arrive late"
+RWCA,N,"Because Susan had ordered the extra large pizza, she had felt satisfied after her meal. That evening, Susan left the restaurant feeling full"
+RWCA,Y,"Because Susan had ordered the extra large pizza, she had felt satisfied after her meal. That evening, Susan left the restaurant feeling hungry"
+CWC,Y,"If Susan had ordered the extra large pizza, she would have felt satisfied after her meal. That evening, Susan left the restaurant feeling hungry"
+CWC,N,"If Susan had ordered the extra large pizza, she would have felt satisfied after her meal. That evening, Susan left the restaurant feeling full"
+RWCA,N,"Because Emma had repaid her overdraft, her meeting at the bank had gone well. The bank manager told Emma that her account was in credit"
+RWCA,Y,"Because Emma had repaid her overdraft, her meeting at the bank had gone well. The bank manager told Emma that her account was in debit"
+CWC,Y,"If Emma had repaid her overdraft, her meeting at the bank would have gone well. The bank manager told Emma that her account was in debit"
+CWC,N,"If Emma had repaid her overdraft, her meeting at the bank would have gone well. The bank manager told Emma that her account was in credit"
+RWCA,N,"Because Marc had got into Big Brother, he had been on the cover of all the big magazines. Back then, Marc was a celebrity"
+RWCA,Y,"Because Marc had got into Big Brother, he had been on the cover of all the big magazines. Back then, Marc was a noone"
+CWC,Y,"If Marc had got into Big Brother, he would have been on the cover of all the big magazines. Back then, Marc was a noone"
+CWC,N,"If Marc had got into Big Brother, he would have been on the cover of all the big magazines. Back then, Marc was a celebrity"
+RWCA,N,"Because Victoria had been a fan of operas, her experience at the show was wonderful. Last night Victoria watched La Boheme and felt excited"
+RWCA,Y,"Because Victoria had been a fan of operas, her experience at the show was wonderful. Last night Victoria watched La Boheme and felt bored"
+CWC,Y,"If Victoria had been a fan of operas, her experience at the show would have been wonderful. Last night Victoria watched La Boheme and felt bored"
+CWC,N,"If Victoria had been a fan of operas, her experience at the show would have been wonderful. Last night Victoria watched La Boheme and felt excited"
+RWCA,N,"Because Tony had been experienced at public speaking, he had enjoyed the international conference. Yesterday, when Tony gave his talk he felt confident"
+RWCA,Y,"Because Tony had been experienced at public speaking, he had enjoyed the international conference. Yesterday, when Tony gave his talk he felt nervous"
+CWC,Y,"If Tony had been experienced at public speaking, he would have enjoyed the international conference. Yesterday, when Tony gave his talk he felt nervous"
+CWC,N,"If Tony had been experienced at public speaking, he would have enjoyed the international conference. Yesterday, when Tony gave his talk he felt confident"
+RWCA,N,"Because there hadn‚Äôt been roadworks on the motorway, Bill‚Äôs bus had arrived on time. Bill called a friend to say he would be punctual"
+RWCA,Y,"Because there hadn‚Äôt been roadworks on the motorway, Bill‚Äôs bus had arrived on time. Bill called a friend to say he would be delayed"
+CWC,Y,"If there hadn‚Äôt been roadworks on the motorway, Bill‚Äôs bus would have arrived on time. Bill called a friend to say he would be delayed"
+CWC,N,"If there hadn‚Äôt been roadworks on the motorway, Bill‚Äôs bus would have arrived on time. Bill called a friend to say he would be punctual"
+RWCA,N,"Because Joanne had remembered her umbrella, she had avoided the rain. By the time she arrived at school Joanne‚Äôs hair was dry"
+RWCA,Y,"Because Joanne had remembered her umbrella, she had avoided the rain. By the time she arrived at school Joanne‚Äôs hair was wet"
+CWC,Y,"If Joanne had remembered her umbrella, she would have avoided the rain. By the time she arrived at school Joanne‚Äôs hair was wet"
+CWC,N,"If Joanne had remembered her umbrella, she would have avoided the rain. By the time she arrived at school Joanne‚Äôs hair was dry"
+RWCA,N,"Because Martin is allergic to shellfish, he needs to avoid certain foods. When Martin eats in a restaurant he often chooses chicken"
+RWCA,Y,"Because Martin is allergic to shellfish, he needs to avoid certain foods. When Martin eats in a restaurant he often chooses prawns"
+CWC,Y,"If Martin were allergic to shellfish, he would need to avoid certain foods. When Martin eats in a restaurant he often chooses prawns"
+CWC,N,"If Martin were allergic to shellfish, he would need to avoid certain foods. When Martin eats in a restaurant he often chooses chicken"
+RWCA,N,"Because Take That had been performing at Glastonbury, Edward had sold his ticket. In the end, Edward was happy to have missed"
+RWCA,Y,"Because Take That had been performing at Glastonbury, Edward had sold his ticket. In the end, Edward was happy to have been at"
+CWC,Y,"If Take That had been performing at Glastonbury, Edward would have sold his ticket. In the end, Edward was happy to have been at"
+CWC,N,"If Take That had been performing at Glastonbury, Edward would have sold his ticket. In the end, Edward was happy to have missed"
+RWCA,N,Because Sofia had told the truth she hadn‚Äôt been in trouble with her boss. Now it looked like Sofia was going to be promoted
+RWCA,Y,Because Sofia had told the truth she hadn‚Äôt been in trouble with her boss. Now it looked like Sofia was going to be fired
+CWC,Y,If Sofia had told the truth she wouldn‚Äôt have been in trouble with her boss. Now it looked like Sofia was going to be fired
+CWC,N,If Sofia had told the truth she wouldn‚Äôt have been in trouble with her boss. Now it looked like Sofia was going to be promoted
+RWCA,N,"Because the crime had been caught on CCTV, the prosecution had won the court case. The lawyers watched as the accused was imprisoned"
+RWCA,Y,"Because the crime had been caught on CCTV, the prosecution had won the court case. The lawyers watched as the accused was released"
+CWC,Y,"If the crime had been caught on CCTV, the prosecution would have won the court case. The lawyers watched as the accused was released"
+CWC,N,"If the crime had been caught on CCTV, the prosecution would have won the court case. The lawyers watched as the accused was imprisoned"
+RWCA,N,"Because Stephen had been old enough, he had no problems buying alcohol. When Stephen went to his local off licence he was allowed"
+RWCA,Y,"Because Stephen had been old enough, he had no problems buying alcohol. When Stephen went to his local off licence he was refused"
+CWC,Y,"If Stephen had been old enough, he would have had no problems buying alcohol. When Stephen went to his local off licence he was refused"
+CWC,N,"If Stephen had been old enough, he would have had no problems buying alcohol. When Stephen went to his local off licence he was allowed"
+RWCA,N,"Because Sally had been an accomplished skier, she hadn‚Äôt had an accident. Now Sally boarded the flight home with no problems"
+RWCA,Y,"Because Sally had been an accomplished skier, she hadn‚Äôt had an accident. Now Sally boarded the flight home with crutches"
+CWC,Y,"If Sally had been an accomplished skier, she wouldn‚Äôt have had an accident. Now Sally boarded the flight home with crutches"
+CWC,N,"If Sally had been an accomplished skier, she wouldn‚Äôt have had an accident. Now Sally boarded the flight home with no problems"
+RWCA,N,"Because Andy had revised diligently, he had passed the exam first time round. Now Andy was preparing to celebrate"
+RWCA,Y,"Because Andy had revised diligently, he had passed the exam first time round. Now Andy was preparing to resit"
+CWC,Y,"If Andy had revised diligently, he would have passed the exam first time round. Now Andy was preparing to resit"
+CWC,N,"If Andy had revised diligently, he would have passed the exam first time round. Now Andy was preparing to celebrate"
+RWCA,N,"Because Helen had watered her plants every day, they had bloomed throughout the Summer. Helen‚Äôs neighbours commented that they were impressed"
+RWCA,Y,"Because Helen had watered her plants every day, they had bloomed throughout the Summer. Helen‚Äôs neighbours commented that they were disappointed"
+CWC,Y,"If Helen had watered her plants every day, they would have bloomed throughout the Summer. Helen‚Äôs neighbours commented that they were disappointed"
+CWC,N,"If Helen had watered her plants every day, they would have bloomed throughout the Summer. Helen‚Äôs neighbours commented that they were impressed"
+RWCA,N,"Because Elaine‚Äôs car had passed its MOT, it had been deemed safe to be driven on the roads. Last week the police stopped Elaine in her car and were satisfied"
+RWCA,Y,"Because Elaine‚Äôs car had passed its MOT, it had been deemed safe to be driven on the roads. Last week the police stopped Elaine in her car and were unwilling"
+CWC,Y,"If Elaine‚Äôs car had passed its MOT, it would have been deemed safe to be driven on the roads. Last week the police stopped Elaine in her car and were unwilling"
+CWC,N,"If Elaine‚Äôs car had passed its MOT, it would have been deemed safe to be driven on the roads. Last week the police stopped Elaine in her car and were satisfied"
+RWCA,N,"Because Isobel had been on a diet for the last months, she had lost a lot of weight. Isobel now buys her clothes in a size small"
+RWCA,Y,"Because Isobel had been on a diet for the last months, she had lost a lot of weight. Isobel now buys her clothes in a size large"
+CWC,Y,"If Isobel had been on a diet for the last months, she would have lost a lot of weight. Isobel now buys her clothes in a size large"
+CWC,N,"If Isobel had been on a diet for the last months, she would have lost a lot of weight. Isobel now buys her clothes in a size small"
+RWCA,N,"Because Alison had received a bonus, she had got very drunk at the office Christmas party. The next morning Alison had woken up feeling hungover"
+RWCA,Y,"Because Alison had received a bonus, she had got very drunk at the office Christmas party. The next morning Alison had woken up feeling refreshed"
+CWC,Y,"If Alison had received a bonus, she would have got very drunk at the office Christmas party. The next morning Alison had woken up feeling refreshed and looked forward to the festive break.hungover"
+CWC,N,"If Alison had received a bonus, she would have got very drunk at the office Christmas party. The next morning Alison had woken up feeling hungover and looked forward to the festive break.refreshed"
+RWCA,N,"Because Bill had trained thoroughly, he had completed this year‚Äôs London marathon. The following day Bill felt delighted"
+RWCA,Y,"Because Bill had trained thoroughly, he had completed this year‚Äôs London marathon. The following day Bill felt frustrated"
+CWC,Y,"If Bill had trained thoroughly, he would have completed this year‚Äôs London marathon. The following day Bill felt frustrated"
+CWC,N,"If Bill had trained thoroughly, he would have completed this year‚Äôs London marathon. The following day Bill felt delighted"
+RWCA,N,"Because the racing driver had won the last race, he had won the season‚Äôs championship title. That evening, the racing driver‚Äôs team celebrated"
+RWCA,Y,"Because the racing driver had won the last race, he had won the season‚Äôs championship title. That evening, the racing driver‚Äôs team commiserated"
+CWC,Y,"If the racing driver had won the last race, he would have won the season‚Äôs championship title. That evening, the racing driver‚Äôs team commiserated"
+CWC,N,"If the racing driver had won the last race, he would have won the season‚Äôs championship title. That evening, the racing driver‚Äôs team celebrated"
+BBC,N," In the end, Susan arrived at work early"
+BBC,Y," In the end, Susan arrived at work late"
+BBC,N, After waiting outside for an hour he now felt warm
+BBC,Y, After waiting outside for an hour he now felt cold
+BBC,N, When she checked her bank balance today she was happy
+BBC,Y, When she checked her bank balance today she was worried
+BBC,N, The businessman called his office to say he would arrive late
+BBC,Y, The businessman called his office to say he would arrive ontime
+BBC,N," That evening, Susan left the restaurant feeling full"
+BBC,Y," That evening, Susan left the restaurant feeling hungry"
+BBC,N, The bank manager told Emma that her account was in credit
+BBC,Y, The bank manager told Emma that her account was in debit
+BBC,N," Back then, Marc was a celebrity"
+BBC,Y," Back then, Marc was a noone"
+BBC,N, Last night Victoria watched La Boheme and felt excited
+BBC,Y, Last night Victoria watched La Boheme and felt bored
+BBC,N," Yesterday, when Tony gave his talk he felt confident"
+BBC,Y," Yesterday, when Tony gave his talk he felt nervous"
+BBC,N, Bill called a friend to say he would be punctual
+BBC,Y, Bill called a friend to say he would be delayed
+BBC,N, By the time she arrived at school Joanne‚Äôs hair was dry
+BBC,Y, By the time she arrived at school Joanne‚Äôs hair was wet
+BBC,N, When Martin eats in a restaurant he often chooses chicken
+BBC,Y, When Martin eats in a restaurant he often chooses prawns
+BBC,N," In the end, Edward was happy to have missed"
+BBC,Y," In the end, Edward was happy to have been at"
+BBC,N, Now it looked like Sofia was going to be promoted
+BBC,Y, Now it looked like Sofia was going to be fired
+BBC,N, The lawyers watched as the accused was imprisoned
+BBC,Y, The lawyers watched as the accused was released
+BBC,N, When Stephen went to his local off licence he was allowed
+BBC,Y, When Stephen went to his local off licence he was refused
+BBC,N, Now Sally boarded the flight home with no problems
+BBC,Y, Now Sally boarded the flight home with crutches
+BBC,N, Now Andy was preparing to celebrate
+BBC,Y, Now Andy was preparing to resit
+BBC,N, Helen‚Äôs neighbours commented that they were impressed
+BBC,Y, Helen‚Äôs neighbours commented that they were disappointed
+BBC,N, Last week the police stopped Elaine in her car and were satisfied
+BBC,Y, Last week the police stopped Elaine in her car and were unwilling
+BBC,N, Isobel now buys her clothes in a size small
+BBC,Y, Isobel now buys her clothes in a size large
+BBC,N, The next morning Alison had woken up feeling hungover
+BBC,Y, The next morning Alison had woken up feeling refreshed
+BBC,N, The following day Bill felt delighted
+BBC,Y, The following day Bill felt frustrated
+BBC,N," That evening, the racing driver‚Äôs team celebrated"
+BBC,Y," That evening, the racing driver‚Äôs team commiserated"
+BB,N, A student would take a foreign language course to improve his French
+BB,Y, Lovers would go to an Indian restaurant to eat some curry
+BB,N, Mary would take her children to the Asda superstore to shop
+BB,Y, Husbands would go to a shoe shop to buy some trainers
+BB,N, Sarah would call a plumber to fix her broken toilet
+BB,Y, You would have your hair cut by a hairdresser
+BB,N, School pupils would go to the countryside to study birds flying
+BB,Y, A golfer would hurt his shoulder from swinging his club
+BB,N, A student would become a solicitor by studying law
+BB,Y, John would invite Mary to the cinema for a movie
+BB,N, A train driver would be in charge of the engine
+BB,Y, A caterpillar would mature into a butterfly
+BB,N, Reporters would carry out an interview with Prince
+BB,Y, A colony of ants would escape from predators by climbing
+BB,N, Visitors would go to Chicago to watch baseball
+BB,Y, Steve would see the Eiffel Tower in France
+BB,N, Crowds of people would watch Tony Blair lead an campaign
+BB,Y, Environmentalists would watch chickens give birth to eggs
+BB,N, Gillian would paint sparkly pink nail varnish onto her nails
+BB,Y, A spider would spend all day producing webs
+BB,N, Football fans would cheer when a player scores a goal
+BB,Y, People would sunbathe on the beach at midday
+BB,N, Children would stay awake on Christmas Eve to look for Santa
+BB,Y, Darwin would have published a book about the evolution of animals
+BB,N, A ferry would travel across the Atlantic Ocean in the sea
+BB,Y, Isaac Newton would have documented his research on a typewriter
+BB,N, Gary would go to Switzerland to climb the mountains
+BB,Y, Judith would listen to her cat meow
+BB,N, Footballers would avoid a tackle by passing the ball using their feet
+BB,Y, A bird would avoid collisions at night using sight
+BB,N, The next King of England would be chosen by heredity
+BB,Y, Penguins would learn to outrun bears
+BB,N, A student would take a foreign language course to improve his painting
+BB,Y, Lovers would go to an Indian restaurant to eat some pasta
+BB,N, Mary would take her children to the Asda superstore to swim
+BB,Y, Husbands would go to a shoe shop to buy some roses
+BB,N, Sarah would call a plumber to fix her broken ankle
+BB,Y, You would have your hair cut by a dentist
+BB,N, School pupils would go to the countryside to study birds swimming
+BB,Y, A golfer would hurt his shoulder from swinging his racket
+BB,N, A student would become a solicitor by studying medicine
+BB,Y, John would invite Mary to the cinema for a dance
+BB,N, A train driver would be in charge of the mainsail
+BB,Y, A caterpillar would mature into a sparrow
+BB,N, Reporters would carry out an interview with Elvis
+BB,Y, A colony of ants would escape from predators by flying
+BB,N, Visitors would go to Chicago to watch bullfights
+BB,Y, Steve would see the Eiffel Tower in Germany
+BB,N, Crowds of people would watch Tony Blair lead an opera
+BB,Y, Environmentalists would watch chickens give birth to chicks
+BB,N, Gillian would paint sparkly pink nail varnish onto her eyelids
+BB,Y, A spider would spend all day producing honey
+BB,N, Football fans would cheer when a player scores a try
+BB,Y, People would sunbathe on the beach at midnight
+BB,N, Children would stay awake on Christmas Eve to look for Elvis
+BB,Y, Darwin would have published a book about the evolution of aspirin
+BB,N, A ferry would travel across the Atlantic Ocean in the air
+BB,Y, Isaac Newton would have documented his research on a laptop
+BB,N, Gary would go to Switzerland to climb the sanddunes
+BB,Y, Judith would listen to her cat talk
+BB,N, Footballers would avoid a tackle by passing the ball using their hands
+BB,Y, A bird would avoid collisions at night using sonar
+BB,N, The next King of England would be chosen by ballot
+BB,Y, Penguins would learn to outrun cheetah
